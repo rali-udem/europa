@@ -1,0 +1,9 @@
+/eval/__pycache__/
+/eval/custom_metrics.py
+/eval/KPEval_public/
+/output_kps/allMetricsWithMultilingualStemming_*
+/output_kps/extract_output_kps.py
+/output_kps/full_*
+/output_kps/toyAllMetricsWithMultilingualStemming_*
+            toyAllMetricsWithMultiStemming
+0_commands.sh
